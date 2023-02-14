@@ -1,0 +1,7 @@
+## especifico cuales son las rutas que debo ignorar
+.env
+
+## tambien se puden indicar carpetas
+
+node_modules/
+package.json
